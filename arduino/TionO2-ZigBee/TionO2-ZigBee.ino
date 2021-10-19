@@ -8,7 +8,7 @@
 #define LCDSIZE 12
 #define LCDBLINKTIME 450 //  step 16,384ms
 #define STARTREADTIMEOUT 225
-#define FREQUENCYSENDSTATE 2400 // step 5 seconds
+#define FREQUENCYSENDSTATE 2400 // step 0.5 seconds
 
 #define SHORTPRESS 100
 #define LONGPRESS 2200
