@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP E18-MS1PA1-PCB
+D Zigbee RF Module
+K Zigbee, RF, 802.15.4
+F http://www.cdebyte.com/en/downpdf.aspx?id=122
+$ENDCMP
+#
+#End Doc Library
