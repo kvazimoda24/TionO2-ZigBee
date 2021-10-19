@@ -1,4 +1,4 @@
 FUSE BITS:<br>
 EX: 0xFC<br>
 HI: 0xDF<br>
-LO: 0xDF
+LO: 0xD7
